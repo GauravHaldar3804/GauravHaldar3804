@@ -15,8 +15,6 @@ I am currently working on an Hybrid-VTOL and I am currently Learning Machine Lea
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GauravHaldar3804&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=GauravHaldar3804&icon=1&color=3)](https://visitcount.itsvg.in)
